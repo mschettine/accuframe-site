@@ -63,6 +63,13 @@
 
     <div class="container marketing">
 
+      <div class="alert alert-primary">
+        <h3>Hey there!</h3>
+        We're excited to announce the release of our new blog! We've got some cool articles you can read, and you can feel free to leave a comment as well, we'd love to hear from you!
+        <hr>
+        <a class="btn btn-lg btn-outline-primary" href="/blog">Check it out!</a> <a data-dismiss="alert" class="btn btn-lg btn-outline-secondary" href="/blog">Dismiss</a>
+      </div>
+
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
