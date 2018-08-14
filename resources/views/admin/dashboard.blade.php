@@ -11,13 +11,14 @@ Home
 
           <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
 
-          <h2>Section title</h2>
+          <h2>Active Users</h2>
           <div class="table-responsive">
             <table class="table table-striped table-sm">
               <thead>
                 <tr>
                   <th>#</th>
                   <th>Name</th>
+                  <th>Email</th>
                   <th>Created At</th>
                 </tr>
               </thead>
@@ -26,6 +27,7 @@ Home
                 <tr>
                   <td>{{ $user->id }}</td>
                   <td>{{ $user->name }}</td>
+                  <td>{{ $user->email }}</td>
                   <td>{{ $user->created_at->toFormattedDateString() }}</td>
                 </tr>
                 @endforeach
