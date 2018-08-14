@@ -43,7 +43,7 @@
             <div class="carousel-caption">
               <h1>Who uses AccuFrame&reg; Energy Seal?</h1>
               <p>Learn about the various companies that use AccuFrame&reg; Energy Seal?</p>
-              <p><a class="btn btn-lg btn-primary" href="specs/index.php#hfh" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/specs" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
