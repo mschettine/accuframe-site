@@ -116,9 +116,9 @@
 
           <!-- Side Widget -->
           <div class="card my-4">
-            <h5 class="card-header">Side Widget</h5>
+            <h5 class="card-header">About the Author</h5>
             <div class="card-body">
-              You can put anything you want inside of these side widgets. They are easy to use, and feature the new Bootstrap 4 card containers!
+              Michael Schettine, who writes the majority of the articles on this site, has more than forty years’ experience in home building, carpentry, and architectural restoration. He is currently president of Schettine Associates Inc., which markets his patented AccuFrame® Energy Seal, a construction-integrated gasket solution for Air Isolation Management-”AIM for Performance”.
             </div>
           </div>
 
